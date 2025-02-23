@@ -8,7 +8,7 @@ I'm always looking for motivated developers to collaborate with on projects, whe
 
 ## Find Me Here
 - **Email**: [devfoxxx@proton.me](mailto:devfoxxx@proton.me)
-- **Nostr**: [npub1a4y3rk84pdwjtv4dv2g7tvq3fyjd93le8plc9ga0n48qfg27kvdqkcxl56](https://nostr.band/)
+- **Nostr**: [npub1a4y3rk84pdwjtv4dv2g7tvq3fyjd93le8plc9ga0n48qfg27kvdqkcxl56](https://nostr.band/npub1a4y3rk84pdwjtv4dv2g7tvq3fyjd93le8plc9ga0n48qfg27kvdqkcxl56)
 
 **If you'd like more information, feel free to contact me via email or Nostr.**
 
